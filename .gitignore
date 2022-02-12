@@ -5,3 +5,7 @@ src/demo/keyboard
 src/demo/output
 src/demo/paint
 src/demo/truecolor
+
+build
+.cmake-format.json~
+CMakeLists.txt~
